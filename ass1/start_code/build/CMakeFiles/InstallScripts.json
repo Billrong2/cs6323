@@ -1,0 +1,13 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/xiaokairong/Desktop/animatin/ass0/starter_code_mac/build/cmake_install.cmake",
+		"/Users/xiaokairong/Desktop/animatin/ass0/starter_code_mac/build/extern/nanogui/cmake_install.cmake",
+		"/Users/xiaokairong/Desktop/animatin/ass0/starter_code_mac/build/extern/nanogui/ext_build/glfw/cmake_install.cmake",
+		"/Users/xiaokairong/Desktop/animatin/ass0/starter_code_mac/build/extern/nanogui/ext_build/glfw/src/cmake_install.cmake",
+		"/Users/xiaokairong/Desktop/animatin/ass0/starter_code_mac/build/extern/glm/cmake_install.cmake",
+		"/Users/xiaokairong/Desktop/animatin/ass0/starter_code_mac/build/extern/glm/glm/cmake_install.cmake",
+		"/Users/xiaokairong/Desktop/animatin/ass0/starter_code_mac/build/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

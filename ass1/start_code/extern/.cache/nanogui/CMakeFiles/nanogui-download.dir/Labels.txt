@@ -1,0 +1,14 @@
+# Target labels
+ nanogui-download
+# Source files and their labels
+/Users/xiaokairong/Desktop/animatin/ass0/starter_code_mac/extern/.cache/nanogui/CMakeFiles/nanogui-download
+/Users/xiaokairong/Desktop/animatin/ass0/starter_code_mac/extern/.cache/nanogui/CMakeFiles/nanogui-download.rule
+/Users/xiaokairong/Desktop/animatin/ass0/starter_code_mac/extern/.cache/nanogui/CMakeFiles/nanogui-download-complete.rule
+/Users/xiaokairong/Desktop/animatin/ass0/starter_code_mac/extern/.cache/nanogui/nanogui-download-prefix/src/nanogui-download-stamp/nanogui-download-build.rule
+/Users/xiaokairong/Desktop/animatin/ass0/starter_code_mac/extern/.cache/nanogui/nanogui-download-prefix/src/nanogui-download-stamp/nanogui-download-configure.rule
+/Users/xiaokairong/Desktop/animatin/ass0/starter_code_mac/extern/.cache/nanogui/nanogui-download-prefix/src/nanogui-download-stamp/nanogui-download-download.rule
+/Users/xiaokairong/Desktop/animatin/ass0/starter_code_mac/extern/.cache/nanogui/nanogui-download-prefix/src/nanogui-download-stamp/nanogui-download-install.rule
+/Users/xiaokairong/Desktop/animatin/ass0/starter_code_mac/extern/.cache/nanogui/nanogui-download-prefix/src/nanogui-download-stamp/nanogui-download-mkdir.rule
+/Users/xiaokairong/Desktop/animatin/ass0/starter_code_mac/extern/.cache/nanogui/nanogui-download-prefix/src/nanogui-download-stamp/nanogui-download-patch.rule
+/Users/xiaokairong/Desktop/animatin/ass0/starter_code_mac/extern/.cache/nanogui/nanogui-download-prefix/src/nanogui-download-stamp/nanogui-download-test.rule
+/Users/xiaokairong/Desktop/animatin/ass0/starter_code_mac/extern/.cache/nanogui/nanogui-download-prefix/src/nanogui-download-stamp/nanogui-download-update.rule
