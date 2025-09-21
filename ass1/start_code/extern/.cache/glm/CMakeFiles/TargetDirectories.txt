@@ -1,3 +1,0 @@
-/Users/xiaokairong/Desktop/animatin/ass0/starter_code_mac/extern/.cache/glm/CMakeFiles/glm-download.dir
-/Users/xiaokairong/Desktop/animatin/ass0/starter_code_mac/extern/.cache/glm/CMakeFiles/edit_cache.dir
-/Users/xiaokairong/Desktop/animatin/ass0/starter_code_mac/extern/.cache/glm/CMakeFiles/rebuild_cache.dir

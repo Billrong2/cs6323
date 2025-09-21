@@ -1,3 +1,0 @@
-/Users/xiaokairong/Desktop/animatin/ass0/starter_code_mac/extern/.cache/nanogui/CMakeFiles/nanogui-download.dir
-/Users/xiaokairong/Desktop/animatin/ass0/starter_code_mac/extern/.cache/nanogui/CMakeFiles/edit_cache.dir
-/Users/xiaokairong/Desktop/animatin/ass0/starter_code_mac/extern/.cache/nanogui/CMakeFiles/rebuild_cache.dir
